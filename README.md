@@ -1,5 +1,7 @@
 ## Hi!
 
 
-### Visitors - 
-<img align="center" src="https://profile-counter.glitch.me/asprazz/count.svg">
+
+### Stats ⚡️
+
+![Github Stats](https://readmestats.vercel.app/api?username=asprazz&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
